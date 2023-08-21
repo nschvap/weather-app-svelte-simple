@@ -1,3 +1,6 @@
+# App de Clima con Svelte
+La hice con amigos en llamada, es lo mas simple del mundo :+1:
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
